@@ -1,7 +1,7 @@
-class MissionComander{
-    constructor(name){
-        this.name = name
+class MissionCommander {
+    constructor (name) {
+      this.name = name
     }
-}
-
-module.export = MissionComander
+  }
+  
+  module.exports = MissionCommander
