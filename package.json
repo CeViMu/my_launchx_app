@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node ./node_modules/jest/bin/jest.js"
   },
+  "start": "node index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CeViMu/my_launchx_app.git"
