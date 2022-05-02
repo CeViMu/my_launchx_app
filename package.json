@@ -1,0 +1,22 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CeViMu/my_launchx_app.git"
+  },
+  "author": "Cecilia Muñoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CeViMu/my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/CeViMu/my_launchx_app#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
